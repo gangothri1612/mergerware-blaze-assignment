@@ -1,4 +1,4 @@
-# 🚀 MergerWare Meteor Blaze Assignment
+#  MergerWare Meteor Blaze Assignment
 
 ## Overview
 
@@ -8,7 +8,7 @@ The application enables users to create, manage, categorize, and reorder tasks t
 
 ---
 
-## ✨ Features
+##  Features
 
 * Add new tasks
 * Delete existing tasks
@@ -22,7 +22,7 @@ The application enables users to create, manage, categorize, and reorder tasks t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * Meteor.js
 * Blaze Templates
@@ -33,7 +33,7 @@ The application enables users to create, manage, categorize, and reorder tasks t
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 client/
@@ -47,7 +47,7 @@ server/
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
 ### Clone the Repository
 
@@ -81,7 +81,7 @@ http://localhost:3005
 
 ---
 
-## 📌 Assignment Requirements Covered
+##  Assignment Requirements Covered
 
 ✅ Task Categories (Work, Personal, Urgent)
 
@@ -97,13 +97,13 @@ http://localhost:3005
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **K C Gangothri**
 
 📧 Email: [gangothri1612@gmail.com](mailto:gangothri1612@gmail.com)
 
-🎓 VIT Chennai
+ VIT Chennai
 
 ---
 
