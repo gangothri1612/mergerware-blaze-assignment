@@ -7,6 +7,8 @@ This project is a Todo Application developed using **Meteor.js** and **Blaze Tem
 The application enables users to create, manage, categorize, and reorder tasks through an intuitive and user-friendly interface.
 
 ---
+## Assessment Output
+<img src="imagee.png" alt="Task Management Dashboard" width="900">
 
 ##  Features
 
